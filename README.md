@@ -1,2 +1,0 @@
-# houseprice
-aku adlah manusia
